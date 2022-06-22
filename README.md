@@ -2,9 +2,9 @@
 
 #### 联系方式
 
+1.      VX:Ays971124
 
-1.    QQ:9459486
-2.    VX:Ays971124
+![0a0a0fef2adec6a4a029e18bbf7a88a](https://user-images.githubusercontent.com/39114466/174938310-1e4627a0-526b-4c79-b057-502fd9678aa0.jpg)
 
 不买也可以添加拉你们进群学习,推荐微信群，没有技术氛围,全在吹牛。哈哈哈哈。如果想提升自己,请往下看
 
