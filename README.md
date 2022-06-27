@@ -47,7 +47,7 @@
 现在的主要更新点
 《安卓逆向进阶》试看地址:https://www.bilibili.com/video/BV1EW4y1k7FN
 
-![安卓逆向进阶](https://github.com/yangshuang520/muyangnixiang/blob/main/%E5%AE%89%E5%8D%93%E9%80%86%E5%90%91%E8%BF%9B%E9%98%B6.png)
+![8becee7977729313b5158d41b5bb326](https://user-images.githubusercontent.com/39114466/175844288-c3ba79b9-7a65-4044-bf62-e0c6dc4dfb4b.png)
 
 #### 3.JS逆向 
 > 一直会更新
